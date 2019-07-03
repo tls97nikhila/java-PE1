@@ -1,6 +1,5 @@
 package com.stackroute.junitdemo;
 
-import java.util.Scanner;
 import java.lang.String;
 
 
@@ -12,16 +11,14 @@ public class Palindrome {
             a = num;
             while (a > 0) {
                 lastDigit = a % 10;
-                sum = (sum * 10) + lastDigit;
+                sum = (sum * 10) + lastDigit;  // reverse
                 a = a / 10;
             }
-            if (num == sum) {
+            if (num == sum) {  // check pal
                 b = true;
 
             } else
                 b = false;
-
-
 
 
             long y = num;

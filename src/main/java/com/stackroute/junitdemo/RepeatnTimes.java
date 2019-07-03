@@ -1,10 +1,12 @@
 package com.stackroute.junitdemo;
 
-import java.util.Scanner;
 
 public class RepeatnTimes {
     public static String  display(String string, int num){
         int str_len=string.length();
+        if(string == null || string.isEmpty()){
+            return "wrong";  //empty inpput
+        }
         String result="";
        int part1= str_len-num;
        for (int i=0;i< str_len;i++){

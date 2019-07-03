@@ -20,9 +20,9 @@ public class SortAddNumber {
             Collections.reverse(number_list); //sorting list in descending order
             for(int i=0;i< number_list.size();i++)
             {
-                var+=number_list.get(i);
+                var+=number_list.get(i);    // add to var variable to return
             }
-            return var;
+            return var;  // return string
         }
 
         public boolean addEven(int number)
@@ -33,13 +33,13 @@ public class SortAddNumber {
                 remainder=temp%10;
                 if(remainder%2==0)
                 {
-                    addEven+=remainder;
+                    addEven+=remainder;  // add even digits to addEven variable
                 }
                 temp/=10;
             }
             if(addEven>25)
                 return true;
-            else return false;
+            else return false;  // return boolean
 
         }
     }

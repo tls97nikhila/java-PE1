@@ -9,7 +9,6 @@ public static int findSum(String input) {
     int sum = 0, score = 0;
 
     Scanner scanner = new Scanner(System.in);
-    //  String line =scanner.nextLine(); // take input as scanner
     scanner = new Scanner(input); // in strings
     while (scanner.hasNextLine()) {
         score = scanner.nextInt(); // save as integer in score and add to sum

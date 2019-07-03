@@ -1,6 +1,5 @@
 package com.stackroute.junitdemo;
 
-import java.util.Scanner;
 
 public class CharType {
     public static String  type(char ch){

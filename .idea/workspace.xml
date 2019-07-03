@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d510df0a-3955-4c47-a615-4f44d37d9409" name="Default Changelist" comment="" />
+    <list default="true" id="d510df0a-3955-4c47-a615-4f44d37d9409" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/junitdemo/CharType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/junitdemo/CharType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/junitdemo/GuessNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/junitdemo/GuessNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/junitdemo/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/junitdemo/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/junitdemo/PrintSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/junitdemo/PrintSequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/junitdemo/RepeatnTimes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/junitdemo/RepeatnTimes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/junitdemo/ReverseNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/junitdemo/ReverseNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/junitdemo/ScannerInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/junitdemo/ScannerInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/junitdemo/SortAddNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/junitdemo/SortAddNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/junitdemo/TomnJerry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/junitdemo/TomnJerry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/junitdemo/VowelConsonentCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/junitdemo/VowelConsonentCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/junitdemo/CharTypeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/junitdemo/CharTypeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/junitdemo/GuessNumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/junitdemo/GuessNumTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/junitdemo/PalindromeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/junitdemo/PalindromeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/junitdemo/PrintSequenceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/junitdemo/PrintSequenceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/junitdemo/RepeatnTimesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/junitdemo/RepeatnTimesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/junitdemo/ReverseNumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/junitdemo/ReverseNumTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/junitdemo/ScannerIntegerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/junitdemo/ScannerIntegerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/junitdemo/SortAddNumberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/junitdemo/SortAddNumberTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/junitdemo/TomnJerryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/junitdemo/TomnJerryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/junitdemo/VowelConsonentCheckTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/junitdemo/VowelConsonentCheckTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,113 +35,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/junitdemo/SortAddNumber.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/junitdemo/ScannerInteger.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="23" column="15" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/junitdemo/ScannerIntegerTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/junitdemo/SortAddNumberTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
-              <caret line="40" column="1" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/junitdemo/ReverseNumTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="37" column="23" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/junitdemo/RepeatnTimes.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/junitdemo/Palindrome.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/junitdemo/CharTypeTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/junitdemo/VowelConsonentCheck.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/junitdemo/GuessNum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="26" selection-start-line="3" selection-start-column="19" selection-end-line="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -129,6 +45,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -136,35 +55,36 @@
         <option value="$PROJECT_DIR$/src/main/test/com/stackroute/junitdemo/AppTest.groovy" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/junitdemo/App.java" />
         <option value="$PROJECT_DIR$/src/main/test/com/stackroute/junitdemo/AppTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/junitdemo/ScannerInteger.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/junitdemo/ScannerIntegerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/junitdemo/ReverseNumTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/junitdemo/RepeatnTimesTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/junitdemo/PalindromeTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/junitdemo/GuessNum.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/junitdemo/SortAddNumberTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/junitdemo/PrintSequenceTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/junitdemo/CharTypeTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/junitdemo/GuessNumTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/junitdemo/TomnJerryTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/junitdemo/VowelConsonentCheckTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/junitdemo/VowelConsonentCheck.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/junitdemo/TomnJerry.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/junitdemo/SortAddNumber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/junitdemo/ReverseNum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/junitdemo/RepeatnTimes.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/junitdemo/PrintSequence.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/junitdemo/Palindrome.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/junitdemo/CharType.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/junitdemo/RepeatnTimes.java" />
-        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/junitdemo/RepeatnTimesTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/junitdemo/VowelConsonentCheck.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/junitdemo/ReverseNum.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/junitdemo/ScannerInteger.java" />
-        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/junitdemo/TomnJerryTest.java" />
-        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/junitdemo/PalindromeTest.java" />
-        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/junitdemo/VowelConsonentCheckTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/junitdemo/PrintSequence.java" />
-        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/junitdemo/PrintSequenceTest.java" />
-        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/junitdemo/ScannerIntegerTest.java" />
-        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/junitdemo/CharTypeTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/junitdemo/GuessNum.java" />
-        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/junitdemo/GuessNumTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/junitdemo/SortAddNumber.java" />
-        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/junitdemo/SortAddNumberTest.java" />
-        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/junitdemo/ReverseNumTest.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="229" />
-    <option name="y" value="85" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="289" />
+    <option name="y" value="49" />
     <option name="width" value="1371" />
     <option name="height" value="815" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <flattenPackages ProjectPane="false" />
@@ -172,8 +92,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -271,6 +191,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="groovy.util.GroovyTestCase" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
@@ -304,8 +225,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ReverseNumTest.givenOneStringOneShouldReturnReversed">
-    <configuration name="ReverseNumTest.givenOneStringOneShouldReturnReversed" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.CharTypeTest.givenSmallCharShouldReturnSmall">
+    <configuration name="CharTypeTest.givenCapitalCharShouldReturnCapital" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="junit demo" />
       <extension name="coverage">
         <pattern>
@@ -314,14 +235,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.stackroute.junitdemo" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.junitdemo.ReverseNumTest" />
-      <option name="METHOD_NAME" value="givenOneStringOneShouldReturnReversed" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.junitdemo.CharTypeTest" />
+      <option name="METHOD_NAME" value="givenCapitalCharShouldReturnCapital" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortAddNumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CharTypeTest.givenSmallCharShouldReturnSmall" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="junit demo" />
       <extension name="coverage">
         <pattern>
@@ -330,29 +251,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.stackroute.junitdemo" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.junitdemo.SortAddNumberTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SortAddNumberTest.givenNumbersShouldReturnFalseIfLessThan15" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="junit demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.stackroute.junitdemo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.stackroute.junitdemo" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.junitdemo.SortAddNumberTest" />
-      <option name="METHOD_NAME" value="givenNumbersShouldReturnFalseIfLessThan15" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.junitdemo.CharTypeTest" />
+      <option name="METHOD_NAME" value="givenSmallCharShouldReturnSmall" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortAddNumberTest.givenNumbersShouldReturnSortedOrder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="GuessNumTest.giveNonNumShouldReturnExcepption" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="junit demo" />
       <extension name="coverage">
         <pattern>
@@ -361,14 +267,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.stackroute.junitdemo" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.junitdemo.SortAddNumberTest" />
-      <option name="METHOD_NAME" value="givenNumbersShouldReturnSortedOrder" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.junitdemo.GuessNumTest" />
+      <option name="METHOD_NAME" value="giveNonNumShouldReturnExcepption" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortAddNumberTest.givenNumbersShouldReturnSortedOrder2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PalindromeTest.givenNumberPalindromeShouldReturnPalindrome" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="junit demo" />
       <extension name="coverage">
         <pattern>
@@ -377,8 +283,24 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.stackroute.junitdemo" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.junitdemo.SortAddNumberTest" />
-      <option name="METHOD_NAME" value="givenNumbersShouldReturnSortedOrder2" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.junitdemo.PalindromeTest" />
+      <option name="METHOD_NAME" value="givenNumberPalindromeShouldReturnPalindrome" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScannerIntegerTest.testgivenSplCharinStringShouldReturnError" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junit demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.junitdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.junitdemo" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.junitdemo.ScannerIntegerTest" />
+      <option name="METHOD_NAME" value="testgivenSplCharinStringShouldReturnError" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -386,11 +308,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ReverseNumTest.givenOneStringOneShouldReturnReversed" />
-        <item itemvalue="JUnit.SortAddNumberTest.givenNumbersShouldReturnSortedOrder2" />
-        <item itemvalue="JUnit.SortAddNumberTest" />
-        <item itemvalue="JUnit.SortAddNumberTest.givenNumbersShouldReturnFalseIfLessThan15" />
-        <item itemvalue="JUnit.SortAddNumberTest.givenNumbersShouldReturnSortedOrder" />
+        <item itemvalue="JUnit.CharTypeTest.givenSmallCharShouldReturnSmall" />
+        <item itemvalue="JUnit.CharTypeTest.givenCapitalCharShouldReturnCapital" />
+        <item itemvalue="JUnit.GuessNumTest.giveNonNumShouldReturnExcepption" />
+        <item itemvalue="JUnit.PalindromeTest.givenNumberPalindromeShouldReturnPalindrome" />
+        <item itemvalue="JUnit.ScannerIntegerTest.testgivenSplCharinStringShouldReturnError" />
       </list>
     </recent_temporary>
   </component>
@@ -408,42 +330,41 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SortAddNumberTest_givenNumbersShouldReturnFalseIfLessThan15 - 2019.06.27 at 10h 45m 56s.xml">
-      <configuration name="SortAddNumberTest.givenNumbersShouldReturnFalseIfLessThan15" configurationId="JUnit" />
+    <history-entry file="RepeatnTimesTest_givenEmptyReturnWrong - 2019.07.03 at 17h 32m 10s.xml">
+      <configuration name="RepeatnTimesTest.givenEmptyReturnWrong" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SortAddNumberTest_givenNumbersShouldReturnFalseIfLessThan15 - 2019.06.27 at 10h 47m 39s.xml">
-      <configuration name="SortAddNumberTest.givenNumbersShouldReturnFalseIfLessThan15" configurationId="JUnit" />
+    <history-entry file="RepeatnTimesTest_givenNullReturnWrong - 2019.07.03 at 17h 32m 38s.xml">
+      <configuration name="RepeatnTimesTest.givenNullReturnWrong" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SortAddNumberTest - 2019.06.27 at 10h 47m 56s.xml">
-      <configuration name="SortAddNumberTest" configurationId="JUnit" />
+    <history-entry file="RepeatnTimesTest_givenNullReturnWrong - 2019.07.03 at 17h 33m 04s.xml">
+      <configuration name="RepeatnTimesTest.givenNullReturnWrong" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SortAddNumberTest_givenNumbersShouldReturnSortedOrder - 2019.06.27 at 10h 49m 08s.xml">
-      <configuration name="SortAddNumberTest.givenNumbersShouldReturnSortedOrder" configurationId="JUnit" />
+    <history-entry file="ScannerIntegerTest_testgivenSplCharinStringShouldReturnError - 2019.07.03 at 17h 40m 44s.xml">
+      <configuration name="ScannerIntegerTest.testgivenSplCharinStringShouldReturnError" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SortAddNumberTest_givenNumbersShouldReturnSortedOrder - 2019.06.27 at 10h 50m 04s.xml">
-      <configuration name="SortAddNumberTest.givenNumbersShouldReturnSortedOrder" configurationId="JUnit" />
+    <history-entry file="PalindromeTest_givenNumberPalindromeShouldReturnPalindrome - 2019.07.03 at 17h 42m 43s.xml">
+      <configuration name="PalindromeTest.givenNumberPalindromeShouldReturnPalindrome" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SortAddNumberTest_givenNumbersShouldReturnSortedOrder - 2019.06.27 at 10h 50m 39s.xml">
-      <configuration name="SortAddNumberTest.givenNumbersShouldReturnSortedOrder" configurationId="JUnit" />
+    <history-entry file="GuessNumTest_giveNonNumShouldReturnExcepption - 2019.07.03 at 17h 48m 58s.xml">
+      <configuration name="GuessNumTest.giveNonNumShouldReturnExcepption" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SortAddNumberTest_givenNumbersShouldReturnFalseIfLessThan15 - 2019.06.27 at 10h 50m 50s.xml">
-      <configuration name="SortAddNumberTest.givenNumbersShouldReturnFalseIfLessThan15" configurationId="JUnit" />
+    <history-entry file="GuessNumTest_giveNonNumShouldReturnExcepption - 2019.07.03 at 17h 49m 24s.xml">
+      <configuration name="GuessNumTest.giveNonNumShouldReturnExcepption" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SortAddNumberTest - 2019.06.27 at 10h 50m 58s.xml">
-      <configuration name="SortAddNumberTest" configurationId="JUnit" />
+    <history-entry file="CharTypeTest_givenCapitalCharShouldReturnCapital - 2019.07.03 at 17h 53m 42s.xml">
+      <configuration name="CharTypeTest.givenCapitalCharShouldReturnCapital" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SortAddNumberTest_givenNumbersShouldReturnSortedOrder2 - 2019.06.27 at 10h 52m 29s.xml">
-      <configuration name="SortAddNumberTest.givenNumbersShouldReturnSortedOrder2" configurationId="JUnit" />
+    <history-entry file="CharTypeTest_givenCapitalCharShouldReturnCapital - 2019.07.03 at 17h 54m 17s.xml">
+      <configuration name="CharTypeTest.givenCapitalCharShouldReturnCapital" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ReverseNumTest_givenOneStringOneShouldReturnReversed - 2019.06.27 at 10h 54m 10s.xml">
-      <configuration name="ReverseNumTest.givenOneStringOneShouldReturnReversed" configurationId="JUnit" />
+    <history-entry file="CharTypeTest_givenSmallCharShouldReturnSmall - 2019.07.03 at 17h 57m 16s.xml">
+      <configuration name="CharTypeTest.givenSmallCharShouldReturnSmall" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="229" y="85" width="1371" height="815" extended-state="0" />
-    <editor active="true" />
+    <frame x="67" y="25" width="1533" height="875" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3018868" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28648284" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -452,7 +373,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32994187" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3297587" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -460,7 +381,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32994187" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3297587" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -475,30 +396,10 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/test/com/stackroute/junitdemo/PrintSequenceTest.java</url>
-          <line>31</line>
-          <properties />
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/test/com/stackroute/junitdemo/GuessNumTest.java</url>
-          <line>19</line>
-          <properties />
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/test/com/stackroute/junitdemo/SortAddNumberTest.java</url>
-          <line>15</line>
+          <line>21</line>
           <properties />
           <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/test/com/stackroute/junitdemo/GuessNumTest.java</url>
-          <line>9</line>
-          <properties class="com.stackroute.junitdemo.GuessNumTest" method="givenCorrectGuessShouldReturnMatches">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -514,93 +415,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/junitdemo/TomnJerry.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/junitdemo/CharType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/junit demo.iml">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/junitdemo/ReverseNum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/junitdemo/TomnJerryTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="18" column="47" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/junitdemo/PalindromeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="55" column="49" selection-start-line="55" selection-start-column="49" selection-end-line="55" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/junitdemo/VowelConsonentCheckTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="32" column="51" selection-start-line="32" selection-start-column="51" selection-end-line="32" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/junitdemo/PrintSequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/junitdemo/PrintSequenceTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="32" column="45" selection-start-line="32" selection-start-column="45" selection-end-line="32" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/junitdemo/RepeatnTimesTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/junitdemo/GuessNumTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/junitdemo/AppTest.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -612,88 +428,193 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/junitdemo/SortAddNumber.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/junitdemo/GuessNum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
+        <state relative-caret-position="75">
+          <caret line="6" column="59" selection-start-line="6" selection-start-column="59" selection-end-line="6" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/junitdemo/CharTypeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-140">
+          <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#231#232#0" expanded="true" />
+            <element signature="e#272#273#0" expanded="true" />
+            <element signature="e#313#314#0" expanded="true" />
+            <element signature="e#344#345#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/junitdemo/ScannerInteger.java">
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/junitdemo/GuessNumTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="23" column="15" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
+        <state relative-caret-position="310">
+          <caret line="49" column="62" selection-start-line="49" selection-start-column="62" selection-end-line="49" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#308#309#0" expanded="true" />
+            <element signature="e#337#338#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/junitdemo/SortAddNumberTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/junitdemo/PalindromeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="40" column="1" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
+        <state relative-caret-position="570">
+          <caret line="42" column="74" selection-start-line="42" selection-start-column="74" selection-end-line="42" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/junitdemo/PrintSequenceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="44" column="13" lean-forward="true" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#262#263#0" expanded="true" />
+            <element signature="e#310#311#0" expanded="true" />
+            <element signature="e#374#375#0" expanded="true" />
+            <element signature="e#407#408#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/junitdemo/RepeatnTimesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="33" column="81" selection-start-line="33" selection-start-column="81" selection-end-line="33" selection-end-column="81" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#327#328#0" expanded="true" />
+            <element signature="e#360#361#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/junitdemo/ReverseNumTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="37" column="23" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
+        <state relative-caret-position="280">
+          <caret line="40" column="46" lean-forward="true" selection-start-line="40" selection-start-column="46" selection-end-line="40" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/junitdemo/RepeatnTimes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/junitdemo/Palindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/junitdemo/CharTypeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/junitdemo/VowelConsonentCheck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/junitdemo/GuessNum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="26" selection-start-line="3" selection-start-column="19" selection-end-line="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/junitdemo/ScannerIntegerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="310">
+          <caret line="44" column="5" lean-forward="true" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#293#294#0" expanded="true" />
+            <element signature="e#344#345#0" expanded="true" />
+            <element signature="e#383#384#0" expanded="true" />
+            <element signature="e#418#419#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/junitdemo/SortAddNumberTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="36" column="47" selection-start-line="36" selection-start-column="47" selection-end-line="36" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/junitdemo/TomnJerryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-185">
+          <caret line="25" column="59" selection-start-line="25" selection-start-column="59" selection-end-line="25" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#311#312#0" expanded="true" />
+            <element signature="e#343#344#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/junitdemo/ScannerInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/junitdemo/ReverseNum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="65" selection-start-line="12" selection-start-column="65" selection-end-line="12" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/junitdemo/RepeatnTimes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/junitdemo/SortAddNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="24" column="41" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/junitdemo/PrintSequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/junitdemo/Palindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-35">
+          <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/junitdemo/CharType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/junitdemo/VowelConsonentCheckTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="25" column="66" selection-start-line="25" selection-start-column="66" selection-end-line="25" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#362#363#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/junitdemo/VowelConsonentCheck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="14" column="61" selection-start-line="14" selection-start-column="61" selection-end-line="14" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/junitdemo/TomnJerry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>

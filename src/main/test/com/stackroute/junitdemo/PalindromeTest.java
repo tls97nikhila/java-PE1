@@ -7,34 +7,27 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 
 public class PalindromeTest {
-
+  Palindrome palindrome;
     @Before
-    public void setUp() throws Exception {
+    public void setUp()  { palindrome=new Palindrome();
     }
 
     @After
-    public void tearDown() throws Exception {
+    public void tearDown()  {palindrome=null;
     }
 
         @Test
         public void givenNumberPalindromeShouldReturnPalindrome(){
 
-            //arrange
-        Palindrome palindrome=new Palindrome();
 
             //Act
-            String result= palindrome.isPalindrome(121);
+            String result= palindrome.isPalindrome(1221);  //even number of digits
             //Assert
-            assertEquals("121 is palindrome and sum of even numbers is less than 25",result);
+            assertEquals("1221 is palindrome and sum of even numbers is less than 25",result);
         }
 
     @Test
     public void givenNonPalindromeNumberShouldReturnNotPalindrome(){
-
-
-
-        //arrange
-        Palindrome palindrome=new Palindrome();
 
         //Act
         String result= palindrome.isPalindrome(1233);
@@ -46,13 +39,10 @@ public class PalindromeTest {
     public void givenPalindromeNumberShouldReturnisPalindrome1(){
 
 
-
-        //arrange
-        Palindrome palindrome=new Palindrome();
-
         //Act
-        String result= palindrome.isPalindrome(86868);
+        String result= palindrome.isPalindrome(86868); //odd num of digits
         //Assert
         assertEquals("86868 is palindrome and sum of even numbers is greater than 25",result);
     }
+
     }

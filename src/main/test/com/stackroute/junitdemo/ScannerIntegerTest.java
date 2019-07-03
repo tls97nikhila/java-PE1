@@ -1,5 +1,7 @@
 package com.stackroute.junitdemo;
 
+import org.junit.After;
+import org.junit.Before;
 import org.junit.Test;
 
 import java.util.InputMismatchException;
@@ -7,41 +9,38 @@ import java.util.InputMismatchException;
 import static org.junit.Assert.*;
 
 public class ScannerIntegerTest {
-
+        ScannerInteger scannerInteger;
+    @Before
+    public void setUp(){
+        scannerInteger=new ScannerInteger();
+    }
+    @After
+    public void tearDown(){
+        scannerInteger=null;
+    }
     @Test
-    public void givenNumbersinStringshouldReturnSum(){
+    public void testgivenNumbersinStringshouldReturnSum(){
 
-
-
-        //arrange
-      ScannerInteger scannerInteger=new ScannerInteger();
 
         //Act
-        int result= scannerInteger.findSum("12 2 3 2");
+        int result= scannerInteger.findSum("12 2 3 2"); //correct result
         //Assert
         assertEquals(19,result);
     }
 
     @Test (expected = InputMismatchException.class)
-    public void giveCharinStringShouldReturnError(){
-
-        //arrange
-        ScannerInteger scannerInteger=new ScannerInteger();
+    public void testgiveCharinStringShouldReturnError(){
 
         //Act
-        int result= scannerInteger.findSum("w e");
-        //Assert
+        int result= scannerInteger.findSum("w e"); //input mis match
+
 
     }
     @Test (expected = InputMismatchException.class)
-    public void givenSplCharinStringShouldReturnError(){
+    public void testgivenSplCharinStringShouldReturnError(){
 
-        //arrange
-        ScannerInteger scannerInteger=new ScannerInteger();
+        int result= scannerInteger.findSum("@"); //wrong input
 
-        //Act
-        int result= scannerInteger.findSum("@");
-        //Assert
 
     }
 

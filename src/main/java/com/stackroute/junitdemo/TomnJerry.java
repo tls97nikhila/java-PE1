@@ -1,6 +1,5 @@
 package com.stackroute.junitdemo;
 
-import java.util.Scanner;
 
 public class TomnJerry {
     public static String findMe(int num) {
@@ -10,12 +9,10 @@ public class TomnJerry {
 
             } else {
                 return "Jerry";
-
-
             }
 
         } else {
-          return "Out of bounds";
+          return "Out of bounds"; // out of 20 to 30
 
         }
 
